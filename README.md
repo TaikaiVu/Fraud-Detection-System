@@ -18,3 +18,8 @@ Utilized AWS DynamoDB for secure, encrypted storage of transaction data, AWS Lam
 **Risk Level Detail view:**
 For each flagged transaction, the user can see the detail
 ![Screenshot 2025-01-31 at 09 49 04](https://github.com/user-attachments/assets/1746b50e-4c7a-45b6-ada0-bbf274230bae)
+
+
+**Mock transaction data insertion**
+
+![Screenshot 2025-01-31 at 10 16 06](https://github.com/user-attachments/assets/20b608a7-e815-4c14-a628-1ebd699d421a)
