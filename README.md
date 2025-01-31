@@ -30,9 +30,6 @@ Tech Stack:
 
 
 **Mock transaction data insertion**
-- Initially, the mock transaction data of a specific customer, with default value for some fields:
-+) status: un-flagged
-+) riskLevel: normal
-+) reason: N/A 
+- Initially when a new transaction is made, the mock transaction data of a specific customer will have a default value for: "status": un-flagged, "riskLevel": normal, "reason": N/A and the AWS Lambda will handle the logic of updating these values based on analysis results made from model in AWS SageMaker
 
 ![Screenshot 2025-01-31 at 10 16 06](https://github.com/user-attachments/assets/20b608a7-e815-4c14-a628-1ebd699d421a)
