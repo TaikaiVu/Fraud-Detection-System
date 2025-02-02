@@ -9,6 +9,7 @@ Tech Stack:
 4. AWS Lambda - To achieve automated transaction handling
 5. AWS WebSocket API - For real-time data updates
 6. AWS CloudFront - For fast, secure global content delivery.
+7. Google Maps API - To provide the transaction location details
 
 
 **Customer list and transaction risk level analysis:**
